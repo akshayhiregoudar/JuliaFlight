@@ -1,2 +1,2 @@
 # JuliaFlight
-A RTLinux flight stack for autonomous UAVs developed using Julia
+A RTLinux flight stack developed for autonomous unammed aerial vehicles (UAVs) using Julia.
